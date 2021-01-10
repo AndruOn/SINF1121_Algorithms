@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-962171987">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="24" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1428350704">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="66" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="673005919">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="snippet" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1009" />
+          <entry key="snippet" value="25" />
+          <entry key="txt" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1009" />
+          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="Scratch" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-573038263">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="646" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="646" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-401000119">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="539" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="539" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1953667480">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="359" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="359" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LSINF1121_PART1_CircularLinkedList" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Huffman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HuffmanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>',',','</find>
+      <find>String index out of range:</find>
+      <find>','</find>
+      <find>\</find>
+      <find>Asterix</find>
+      <find>chante</find>
+      <find>mission</find>
+      <find>pirates</find>
+      <find>RM</find>
+      <find>buildTrie1</find>
+      <find>feedback(</find>
+      <find>== 2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>','!','</replace>
+      <replace>,</replace>
+      <replace>System.out.println(</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART3_BinarySearchTree</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/CircularLinkedListTestExtreme.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CircularLinkedListTestRandom.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CircularLinkedListTestComplexity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CircularLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ceil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TimeLimitedCodeBlock.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet" />
+        <option value="$PROJECT_DIR$/src/main/java/IncrementalHash.java" />
+        <option value="$PROJECT_DIR$/tabchar.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/IncrementalHashTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RabinKarp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RabinKarpTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/MinPQ.java" />
+        <option value="$PROJECT_DIR$/src/test/java/rt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fze.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HuffmanTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Huffman.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HuffmanTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART5_Huffman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSINF1121_PART5_Huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LSINF1121_PART1_CircularLinkedList" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LSINF1121_PART1_CircularLinkedList" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART1_CircularLinkedList" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LSINF1121_PART1_CircularLinkedList" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART1_CircularLinkedList" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LSINF1121_PART1_CircularLinkedList" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART1_CircularLinkedList" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LSINF1121_PART1_CircularLinkedList" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART1_CircularLinkedList" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LSINF1121_PART1_CircularLinkedList" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="LSINF1121_PART1_CircularLinkedList" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="LSINF1121_PART1_CircularLinkedList" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543259645460" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART1_CircularLinkedList\src\main\java" />
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\grading\LSINF1121_PART1_CircularLinkedList\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HuffmanTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuffmanTest" />
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HuffmanTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HuffmanTest2" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncrementalHashTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IncrementalHashTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabinKarpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART5_Huffman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RabinKarpTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.IncrementalHashTest" />
+      <item itemvalue="JUnit.RabinKarpTest" />
+      <item itemvalue="Application.HuffmanTest" />
+      <item itemvalue="JUnit.HuffmanTest2" />
+      <item itemvalue="JUnit.HuffmanTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HuffmanTest" />
+        <item itemvalue="Application.HuffmanTest" />
+        <item itemvalue="JUnit.HuffmanTest2" />
+        <item itemvalue="JUnit.RabinKarpTest" />
+        <item itemvalue="JUnit.IncrementalHashTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/FIM/fim-cp" value="1468961274000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/cap/cp4cap" value="1496190926000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/4quent/cp4d" value="1490052279000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/Hashcode/hcoder" value="1487770916000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/ISCwithD/fim-discrimative" value="1486316517000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOOOk/fim-discrimative" value="1493663130000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/discriminativeOk/fim-discrimative" value="1487121925000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/fim-discriminative/fim-discrimative" value="1482237983000" />
+        <entry key="$PROJECT_DIR$/../../Applications Scala/oscar-user-version/oscar-cpok" value="1441623758000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Applications Scala/okpaer/cp4dt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be98806f-cb64-499a-a153-78b0646b41e9" name="Default Changelist" comment="" />
+      <created>1537531057859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537531057859</updated>
+      <workItem from="1537531059550" duration="842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RabinKarpTest - 2018.11.08 at 14h 34m 20s.xml">
+      <configuration name="RabinKarpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabinKarpTest - 2018.11.08 at 14h 49m 16s.xml">
+      <configuration name="RabinKarpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RabinKarpTest - 2018.11.08 at 15h 02m 02s.xml">
+      <configuration name="RabinKarpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 10h 35m 39s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 10h 39m 28s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 10h 44m 32s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 10h 58m 45s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 10h 59m 20s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 10h 59m 58s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HuffmanTest2 - 2018.11.22 at 11h 00m 06s.xml">
+      <configuration name="HuffmanTest2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="920" y="-1392" width="392" height="1344" id="Project" order="0" sideWeight="0.39196676" visible="true" weight="0.18710022" />
+      <window_info id="Structure" order="1" sideWeight="0.60803324" side_tool="true" weight="0.16684435" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.608365" side_tool="true" weight="0.32603937" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49841145" weight="0.13449024" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.50595236" side_tool="true" weight="0.2132645" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.153789" />
+      <window_info anchor="bottom" id="JProfiler" order="8" />
+      <window_info anchor="bottom" id="Panda Executor" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32927817" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="11" weight="0.32927817" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" x="-733" y="-507" width="2557" height="458" id="Run" order="13" sideWeight="0.5486936" visible="true" weight="0.28524947" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.48809522" side_tool="true" weight="0.24980143" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.48809522" side_tool="true" weight="0.32962668" />
+      <window_info anchor="right" id="Terminal" order="6" sideWeight="0.4513064" side_tool="true" weight="0.5266559" />
+      <window_info anchor="right" auto_hide="true" id="Version Control" order="7" show_stripe_button="false" sideWeight="0.48363096" side_tool="true" weight="0.32883242" />
+      <window_info anchor="right" id="CDI" order="8" />
+      <window_info anchor="right" id="SBT" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Gradle" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+      <window_info anchor="right" id="Database" order="13" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/LSINF1121_PART1_CircularLinkedList:LSINF1121_PART1_CircularLinkedList:1.0-SNAPSHOT" />
+    <entry file="file://$PROJECT_DIR$/LSINF1121_PART1_CircularLinkedList.iml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/CircularLinkedListTestComplexity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/CircularLinkedListTestExtreme.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CircularLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/CircularLinkedListTestRandom.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/IntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CeilTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ceil.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabchar.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/IncrementalHashTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/IncrementalHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RabinKarp.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RabinKarpTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MinPQ.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TimeLimitedCodeBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JavaGrading-0.1.jar!/GradedTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JavaGrading-0.1.jar!/GradedClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JavaGrading-0.1.jar!/GradeClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JavaGrading-0.1.jar!/Grade.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/JavaGrading-0.1.jar!/GradingListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HuffmanTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="210" column="53" selection-start-line="210" selection-start-column="53" selection-end-line="210" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Huffman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HuffmanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
