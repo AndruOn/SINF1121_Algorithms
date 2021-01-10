@@ -23,7 +23,7 @@ import java.util.*;
            nbIslands = 0;
            for (int i = 0; i < N*N; i++) {
                id[i] = i;
-               sz[i] = i;
+               sz[i] = 1;
            }
            for (int i = 0; i < N * N; i++) {
                if(altitude[i/N][i%N]>waterLevel){
